@@ -2,7 +2,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const path = require('path')
 var webpackConfig = {
   entry: {
-    newCLO: [
+    EntryPoint: [
       path.join(__dirname, 'src', 'main.ts')
     ]
   }, resolve: {
