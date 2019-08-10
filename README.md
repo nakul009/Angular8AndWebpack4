@@ -1,3 +1,5 @@
+# Angular8AndWebpack4
+
 To get more Info about how webpack is configured and second approach to configure webpack with angular you can check out this [BLOG] (https://medium.com/@sahayatanakul2867/configuration-of-webpack4-and-angular-8-using-two-approaches-2bbc4b1cacda).
 
 You can clone this repo for starting point of angular with your own webpack configuration
